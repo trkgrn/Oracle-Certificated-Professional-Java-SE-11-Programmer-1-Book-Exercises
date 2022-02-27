@@ -34,6 +34,4 @@ public class Encapsulation {
         System.out.println(numEggs);
     }
 
-    public void seaase(){}
-
 }
